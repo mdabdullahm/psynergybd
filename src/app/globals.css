@@ -1,11 +1,10 @@
 @import "tailwindcss";
 
 @theme {
-  /* আপনার প্রাইমারি কালার সেটআপ */
+  /* primray color setaup */
   --color-primary: #0D0B61;
   --color-primary-hover: #0a094d;
   
-  /* ফন্ট এবং অন্যান্য ভেরিয়েবল */
   --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui;
 }
 

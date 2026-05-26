@@ -21,7 +21,7 @@ const Navbar = () => {
     const pathname = usePathname();
     const [isOpen, setIsOpen] = useState(false);
 
-    // প্রতিটি পেজের জন্য নাম, লিঙ্ক এবং আইকন
+    // page link & icon
     const navLinks = [
         { name: "Home", href: "/", icon: Home },
         { name: "About Doctor", href: "/about", icon: User },
