@@ -8,7 +8,7 @@ const FinalCTA = () => {
   return (
     <section className="py-20 px-4">
       <div className="max-w-full mx-auto">
-        <div className="relative bg-primary rounded-[3rem] overflow-hidden shadow-2xl shadow-blue-900/40">
+        <div className="relative bg-primary rounded-[1.5rem] overflow-hidden shadow-2xl shadow-blue-900/40">
           
           {/* Decorative Background Elements */}
           <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/10 rounded-full -translate-y-1/2 translate-x-1/2 blur-3xl"></div>
